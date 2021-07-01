@@ -12,3 +12,4 @@ tests/ssh/
 tests/validate-tmp
 .DS_Store
 .npmrc
+.npmrc
